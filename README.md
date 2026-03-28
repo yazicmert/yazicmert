@@ -40,7 +40,7 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (G
 
 **Domain Expertise**
 
-🛰️ Orbital Mechanics & Astrodynamics · 🎯 Satellite Attitude Dynamics & Control · 🌌 Interplanetary Trajectory Design · 📊 Data Analysis & Visualization
+🛰️ Orbital Mechanics & Astrodynamics · 🎯 Satellite Attitude Dynamics & Control · 🌌 Interplanetary Trajectory Design · 📊 Data Analysis & Visualization · 👨‍💻 Machine Learning 
 
 ---
 
