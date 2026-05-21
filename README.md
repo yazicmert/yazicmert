@@ -46,12 +46,12 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (G
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<!-- Most used languages — dynamic, auto-updates -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yazicmert&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/yazicmert)
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazicmert&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook" 
+    alt="Top Languages" 
+  />
+</p>
 
 ---
 
