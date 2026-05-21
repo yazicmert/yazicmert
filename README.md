@@ -62,6 +62,7 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (G
 | Google Data Analytics Professional | Google / Coursera | 2026 |
 | Machine Learning | Stanford University / Coursera | 2024 |
 | EELISA Prototype Contest | Nürnberg, Germany | 2024 |
+| Management of Innovation and Common Good | Pisa, Italy | 2026 |
 
 ---
 
