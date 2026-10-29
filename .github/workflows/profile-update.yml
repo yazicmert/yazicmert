@@ -1,4 +1,4 @@
-name: Update orbit animation
+name: Update lunar landing animation
 
 on:
   schedule:
@@ -23,18 +23,18 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate orbit SVG
-        run: python scripts/orbit_svg.py assets/orbit.svg
+      - name: Generate lunar landing SVG
+        run: python scripts/lunar_landing_svg.py assets/lunar-landing.svg
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/orbit.svg
+          git add assets/lunar-landing.svg
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
           fi
-          git commit -m "chore: daily orbit update"
+          git commit -m "chore: daily lunar landing update"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push
