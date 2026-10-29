@@ -1,13 +1,16 @@
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1021,100:2196F3&height=170&section=header&text=Muzaffer%20Mert%20Yaz%C4%B1c%C4%B1&fontSize=38&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Astronautical%20Engineering%20%C2%B7%20Space%20Systems&descAlignY=58&descSize=16" width="100%" alt="Banner"/>
+
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mert+%F0%9F%91%8B;Astronautical+Engineer+%F0%9F%9A%80;Space+Systems+%26+Data+Science;TÜBİTAK+UZAY+Bursiyer+%F0%9F%8C%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&width=640&lines=Hi+there%2C+I'm+Mert+%F0%9F%91%8B;Astronautical+Engineer+%F0%9F%9A%80;Orbital+Mechanics+%26+Astrodynamics+%F0%9F%9B%B0%EF%B8%8F;Research+Fellow+%40+T%C3%9CB%C4%B0TAK+UZAY+%F0%9F%8C%99;Space+Systems+%C3%97+Data+Science+%F0%9F%93%8A)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-muzaffermertyazici%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muzaffermertyazici@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzaffer%20Mert%20Yazıcı-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffer-mert-yazıcı-080437229)
-[![Location](https://img.shields.io/badge/Istanbul%2C%20Turkey-2196F3?style=flat-square&logo=googlemaps&logoColor=white)](#)
+![Location](https://img.shields.io/badge/Istanbul%2C%20Turkey-2196F3?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -22,6 +25,18 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (G
 - 🌍 Erasmus+ exchange at **Brno University of Technology** (GPA: 3.91/4)
 - 🏆 **3rd Place** at İstanbul Designathon 2024
 - 🌱 Challenger Fellow at **Turkish Entrepreneurship Foundation**
+
+---
+
+## 🪐 Where Is My Asteroid Today?
+
+<div align="center">
+
+<img src="assets/orbit.svg" width="100%" alt="Animated heliocentric orbits of Earth and asteroid 85990 (1999 JV6), starting from today's positions"/>
+
+<sub>Generated daily by a Python script from <a href="https://ssd-api.jpl.nasa.gov/doc/sbdb.html">JPL Small-Body Database</a> orbital elements — Keplerian propagation, one Earth year ≈ 12 s.</sub>
+
+</div>
 
 ---
 
@@ -40,20 +55,34 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (G
 
 **Domain Expertise**
 
-🛰️ Orbital Mechanics & Astrodynamics · 🎯 Satellite Attitude Dynamics & Control · 🌌 Interplanetary Trajectory Design · 📊 Data Analysis & Visualization · 👨‍💻 Machine Learning 
+🛰️ Orbital Mechanics & Astrodynamics · 🎯 Satellite Attitude Dynamics & Control · 🌌 Interplanetary Trajectory Design · 📊 Data Analysis & Visualization · 🤖 Machine Learning
 
 ---
 
-## 📊 GitHub Stats
+## 📡 Latest in Astrodynamics on arXiv
+
+<!-- ARXIV:START -->
+- 📄 *The feed updates automatically every day via GitHub Actions.*
+<!-- ARXIV:END -->
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazicmert&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook&cache_seconds=86400" 
-  alt="Top Languages" 
-/>
+<img src="assets/metrics.svg" alt="GitHub metrics"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yazicmert/yazicmert/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yazicmert/yazicmert/output/github-snake.svg"/>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/yazicmert/yazicmert/output/github-snake.svg"/>
+</picture>
 
 </div>
+
 ---
 
 ## 📜 Certifications
@@ -61,9 +90,9 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (G
 | Certificate | Institution | Year |
 |---|---|---|
 | Google Data Analytics Professional | Google / Coursera | 2026 |
+| Management of Innovation and Common Good | Pisa, Italy | 2026 |
 | Machine Learning | Stanford University / Coursera | 2024 |
 | EELISA Prototype Contest | Nürnberg, Germany | 2024 |
-| Management of Innovation and Common Good | Pisa, Italy | 2026 |
 
 ---
 
@@ -75,3 +104,5 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (G
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffer-mert-yazıcı-080437229)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1021,100:2196F3&height=110&section=footer" width="100%" alt=""/>
