@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&width=640&lines=Hi+there%2C+I'm+Mert+%F0%9F%91%8B;Astronautical+Engineer+%F0%9F%9A%80;Orbital+Mechanics+%26+Astrodynamics+%F0%9F%9B%B0%EF%B8%8F;Research+Fellow+%40+T%C3%9CB%C4%B0TAK+UZAY+%F0%9F%8C%99;Space+Systems+%C3%97+Data+Science+%F0%9F%93%8A)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&width=640&lines=Hi+there%2C+I'm+Mert+%F0%9F%91%8B;Astronautical+Engineer+%F0%9F%9A%80;Orbital+Mechanics+%26+Astrodynamics+%F0%9F%9B%B0%EF%B8%8F;Research+Fellow+%40+T%C3%9CB%C4%B0TAK+UZAY+%F0%9F%8C%99;IAC+2026+Presenter+%7C+AIAA+SSDC+2nd+Place+%F0%9F%8F%86;Space+Systems+%C3%97+Data+Science+%F0%9F%93%8A)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
@@ -18,13 +18,31 @@
 
 ## 👨‍🚀 About Me
 
-I'm an Astronautical Engineering student at **Istanbul Technical University** (GPA: 3.3/4), passionate about the intersection of **space systems**, **orbital mechanics**, and **data-driven engineering**. Currently an undergraduate research fellow at **TÜBİTAK UZAY**, contributing to Turkey's lunar exploration ambitions.
+I'm an Astronautical Engineering student at **Istanbul Technical University** (B.Sc., GPA: 3.3/4), working at the intersection of **flight dynamics**, **interplanetary trajectory design**, and **data-driven engineering**. I'm currently an undergraduate research fellow in the **Orbit, Attitude and Control Group at TÜBİTAK UZAY**, building simulation tools for Türkiye's lunar mission.
 
-- 🌙 Developing spacecraft simulation models for the **Turkish Lunar Mission (AYAP/TLM)**
-- 🛸 Designed transfer trajectories for **asteroid 85990 JV6** using Lambert solutions
-- 🌍 Erasmus+ exchange at **Brno University of Technology** (GPA: 3.91/4)
-- 🏆 **3rd Place** at İstanbul Designathon 2024
-- 🌱 Challenger Fellow at **Turkish Entrepreneurship Foundation**
+### 🚀 Experience
+
+**TÜBİTAK UZAY** — Orbit, Attitude and Control Group · Ankara
+
+- 🌙 **Undergraduate Research Fellow, Turkish Lunar Mission (AYAP/TLM)** · *Oct 2025 – Present*
+  - Developing a system-level spacecraft simulation model in **MATLAB/Simulink**
+  - Implementing flight dynamics and lunar mission scenario simulations
+  - Building a graphical flight simulation interface for visualization and user interaction
+- 🛸 **Research Intern** · *Jun 2025 – Sep 2025*
+  - Designed transfer trajectory concepts for **asteroid 85990 JV6** using Lambert solutions
+  - Analyzed launch windows and ΔV requirements for mission feasibility
+  - Contributed to propulsion and orbital analysis studies within TLM
+
+**Turkish Entrepreneurship Foundation** — 🌱 Challenger Fellow · *2023 – 2024*
+
+**Brno University of Technology** — 🌍 Erasmus+ exchange semester · *Feb – Jun 2025* (GPA: 3.91/4)
+
+### 🏆 Research & Awards
+
+- 🎤 **IAC 2026, Antalya** — Presented *"Learning-Assisted Multi-Sensor Hazard Assessment and Decision Support for Autonomous Lunar Landing"* (Symposium A3, Space Exploration · IAC-26,A3,IP,172)
+- 🥈 **AIAA 2025/2026 Space Systems Design Competition — 2nd Place** among 29 international teams (Team Ares Aegis) with *HELIOS-Net*, a multi-point space weather monitoring constellation for Sun–Earth–Mars connectivity
+- 🇺🇸 Invited by the AIAA Space Systems Technical Committee to present HELIOS-Net at **AIAA SciTech Forum 2027**, Orlando
+- 🥉 **3rd Place** — İstanbul Designathon 2024 (ISO ETP)
 
 ---
 
@@ -46,8 +64,13 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (G
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-E16737?style=flat-square&logo=mathworks&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![GNU Octave](https://img.shields.io/badge/GNU%20Octave-0790C0?style=flat-square&logo=octave&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 **Python Libraries**
 
@@ -55,7 +78,7 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (G
 
 **Domain Expertise**
 
-🛰️ Orbital Mechanics & Astrodynamics · 🎯 Satellite Attitude Dynamics & Control · 🌌 Interplanetary Trajectory Design · 📊 Data Analysis & Visualization · 🤖 Machine Learning
+🛰️ Orbital Mechanics & Astrodynamics · 🎯 Satellite Attitude Dynamics & Control · 🌌 Interplanetary Trajectory Design (Lambert, patched conics, rendezvous) · 🕹️ Spacecraft Simulation · 📊 Data Analysis & Visualization · 🤖 Machine Learning
 
 ---
 
