@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&width=640&lines=M.Sc.+Space+Engineering+%40+University+of+Bremen;Autonomous+Lunar+Landing+%C2%B7+Hazard+Assessment;IAC+2026+%C2%B7+AIAA+SSDC+2nd+Place)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4FC3F7&center=true&vCenter=true&width=800&height=44&lines=M.Sc.+Space+Engineering+%C2%B7+University+of+Bremen;Autonomous+Lunar+Landing+%C2%B7+Hazard+Assessment;IAC+2026+%C2%B7+AIAA+SSDC+2nd+Place)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
@@ -83,7 +83,7 @@ Orbital Mechanics & Astrodynamics · Satellite Attitude Dynamics & Control · In
 
 <div align="center">
 
-<img src="assets/metrics.svg" alt="GitHub metrics"/>
+<img src="assets/activity.svg" width="100%" alt="GitHub contribution log and languages for the last 12 months"/>
 
 </div>
 
