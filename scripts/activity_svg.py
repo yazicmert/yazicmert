@@ -85,7 +85,7 @@ def languages(user):
             totals[name] = (size + edge["size"], color)
     ranked = sorted(totals.items(), key=lambda kv: -kv[1][0])
     total = sum(s for s, _ in totals.values()) or 1
-    top = [(n, s / total, c) for n, (s, c) in ranked[:TOP_LANGUAGES]]
+    top = [(n, s / total, c) for n, (s, c) in ranked[:TOP_LANGUAGES] if s / total >= 0.01]
     rest = 1 - sum(p for _, p, _ in top)
     if rest > 0.005:
         top.append(("Other", rest, "#3a4560"))
