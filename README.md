@@ -86,16 +86,6 @@ I'm an Astronautical Engineer from **Istanbul Technical University**, now starti
 
 ---
 
-## 📡 Latest in Astrodynamics on arXiv
-
-<!-- ARXIV:START -->
-- 📄 [Calculation of distant retrograde orbits and their use in space weather forecasting](http://arxiv.org/abs/2610.36315v1) — *C. Möstl, E. E. Davies, et al.* (2026-10-26)
-- 📄 [LunarRF: A Terrain-Aware Propagation Engine and Pole-Wide 3GPP Surface Coverage Atlas of the Lunar South Pole](http://arxiv.org/abs/2610.34554v2) — *Christopher J. Santorelli, Alexander M. Wyglinski* (2026-10-25)
-- 📄 [Planetesimal Delivery to Giant Planet Circumplanetary Disks: Bulk Ice Enrichment and an Ice-rich Iapetus](http://arxiv.org/abs/2610.34081v1) — *Ignacio Mosqueira* (2026-10-25)
-<!-- ARXIV:END -->
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
