@@ -4,13 +4,13 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&width=640&lines=Hi+there%2C+I'm+Mert+%F0%9F%91%8B;Astronautical+Engineer+%F0%9F%9A%80;Orbital+Mechanics+%26+Astrodynamics+%F0%9F%9B%B0%EF%B8%8F;Research+Fellow+%40+T%C3%9CB%C4%B0TAK+UZAY+%F0%9F%8C%99;IAC+2026+Presenter+%7C+AIAA+SSDC+2nd+Place+%F0%9F%8F%86;Space+Systems+%C3%97+Data+Science+%F0%9F%93%8A)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&width=640&lines=Hi+there%2C+I'm+Mert+%F0%9F%91%8B;Astronautical+Engineer+%F0%9F%9A%80;M.Sc.+Space+Engineering+%40+Uni+Bremen+%F0%9F%8E%93;Orbital+Mechanics+%26+Astrodynamics+%F0%9F%9B%B0%EF%B8%8F;Research+Fellow+%40+T%C3%9CB%C4%B0TAK+UZAY+%F0%9F%8C%99;IAC+2026+Presenter+%7C+AIAA+SSDC+2nd+Place+%F0%9F%8F%86;Space+Systems+%C3%97+Data+Science+%F0%9F%93%8A)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-muzaffermertyazici%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muzaffermertyazici@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muzaffer%20Mert%20Yazıcı-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muzaffer-mert-yazıcı-080437229)
-![Location](https://img.shields.io/badge/Istanbul%2C%20Turkey-2196F3?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Bremen%2C%20Germany-2196F3?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
@@ -18,7 +18,13 @@
 
 ## 👨‍🚀 About Me
 
-I'm an Astronautical Engineering student at **Istanbul Technical University** (B.Sc., GPA: 3.3/4), working at the intersection of **flight dynamics**, **interplanetary trajectory design**, and **data-driven engineering**. I'm currently an undergraduate research fellow in the **Orbit, Attitude and Control Group at TÜBİTAK UZAY**, building simulation tools for Türkiye's lunar mission.
+I'm an Astronautical Engineer from **Istanbul Technical University**, now starting my **M.Sc. in Space Engineering at the University of Bremen** 🇩🇪. I work at the intersection of **flight dynamics**, **interplanetary trajectory design**, and **data-driven engineering**, with hands-on experience building simulation tools for Türkiye's lunar mission at **TÜBİTAK UZAY**.
+
+### 🎓 Education
+
+- **University of Bremen** — M.Sc. Space Engineering · *2026 – Present*
+- **Istanbul Technical University** — B.Sc. Astronautical Engineering · *Graduated 2026* (GPA: 3.3/4)
+- **Brno University of Technology** — 🌍 Erasmus+ exchange semester · *Feb – Jun 2025* (GPA: 3.91/4)
 
 ### 🚀 Experience
 
@@ -34,8 +40,6 @@ I'm an Astronautical Engineering student at **Istanbul Technical University** (B
   - Contributed to propulsion and orbital analysis studies within TLM
 
 **Turkish Entrepreneurship Foundation** — 🌱 Challenger Fellow · *2023 – 2024*
-
-**Brno University of Technology** — 🌍 Erasmus+ exchange semester · *Feb – Jun 2025* (GPA: 3.91/4)
 
 ### 🏆 Research & Awards
 
