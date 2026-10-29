@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&width=640&lines=Hi+there%2C+I'm+Mert+%F0%9F%91%8B;Astronautical+Engineer+%F0%9F%9A%80;M.Sc.+Space+Engineering+%40+Uni+Bremen+%F0%9F%8E%93;Orbital+Mechanics+%26+Astrodynamics+%F0%9F%9B%B0%EF%B8%8F;Research+Fellow+%40+T%C3%9CB%C4%B0TAK+UZAY+%F0%9F%8C%99;IAC+2026+Presenter+%7C+AIAA+SSDC+2nd+Place+%F0%9F%8F%86;Space+Systems+%C3%97+Data+Science+%F0%9F%93%8A)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&multiline=false&width=640&lines=Hi+there%2C+I'm+Mert+%F0%9F%91%8B;Astronautical+Engineer+%F0%9F%9A%80;M.Sc.+Space+Engineering+%40+Uni+Bremen+%F0%9F%8E%93;Orbital+Mechanics+%26+Astrodynamics+%F0%9F%9B%B0%EF%B8%8F;Former+Research+Fellow+%40+T%C3%9CB%C4%B0TAK+UZAY+%F0%9F%8C%99;IAC+2026+Presenter+%7C+AIAA+SSDC+2nd+Place+%F0%9F%8F%86;Space+Systems+%C3%97+Data+Science+%F0%9F%93%8A)](https://github.com/DenverCoder1/readme-typing-svg)
 
 <br/>
 
@@ -30,10 +30,10 @@ I'm an Astronautical Engineer from **Istanbul Technical University**, now starti
 
 **TÜBİTAK UZAY** — Orbit, Attitude and Control Group · Ankara
 
-- 🌙 **Undergraduate Research Fellow, Turkish Lunar Mission (AYAP/TLM)** · *Oct 2025 – Present*
-  - Developing a system-level spacecraft simulation model in **MATLAB/Simulink**
-  - Implementing flight dynamics and lunar mission scenario simulations
-  - Building a graphical flight simulation interface for visualization and user interaction
+- 🌙 **Undergraduate Research Fellow, Turkish Lunar Mission (AYAP/TLM)** · *Oct 2025 – Jul 2026*
+  - Developed a system-level spacecraft simulation model in **MATLAB/Simulink**
+  - Implemented flight dynamics and lunar mission scenario simulations
+  - Built a graphical flight simulation interface for visualization and user interaction
 - 🛸 **Research Intern** · *Jun 2025 – Sep 2025*
   - Designed transfer trajectory concepts for **asteroid 85990 JV6** using Lambert solutions
   - Analyzed launch windows and ΔV requirements for mission feasibility
